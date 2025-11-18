@@ -17,7 +17,6 @@
     </properties>
     <modules>
         <module>catalog-service</module>
-        <module>catalog-service</module>
     </modules>
 
     <dependencies>
